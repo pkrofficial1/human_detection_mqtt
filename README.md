@@ -1,4 +1,14 @@
 Human Detection with MQTT Integration
+
+
+
+
+
+
+![Human-Detection-by-Facial-Recognition-1](https://github.com/user-attachments/assets/71e19a39-9fe6-4069-a5dc-d3e8afd2eaf7)
+
+![image](https://github.com/user-attachments/assets/8e8d17bf-a1f4-4b61-9a9a-1bdfa2f50664)
+
 Overview
 
 This project detects humans using an IP camera and a YOLO model, then publishes real-time updates to an MQTT broker. It can also turn off appliances if no humans are detected for 20 seconds.
